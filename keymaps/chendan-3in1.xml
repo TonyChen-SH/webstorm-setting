@@ -42,5 +42,15 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt help" />
   </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="StepInto" />
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="UML.ApplyCurrentLayout" />
 </keymap>
