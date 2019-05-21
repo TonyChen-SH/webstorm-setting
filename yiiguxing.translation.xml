@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="场景" />
       <item value="linkage" />
       <item value="联动" />
       <item value="市区" />
@@ -10,7 +11,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
