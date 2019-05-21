@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="商业" />
+      <item value="商户后台" />
+      <item value="商户" />
       <item value="场景" />
       <item value="linkage" />
       <item value="联动" />
