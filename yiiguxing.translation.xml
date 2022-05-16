@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1134" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="格式化&#10;" />
+      <item value="g" />
       <item value="w" />
       <item value="额外的" />
       <item value="extra" />
@@ -59,6 +61,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651237032293" />
+    <option name="lastTrimTime" value="1652726329451" />
   </component>
 </application>
